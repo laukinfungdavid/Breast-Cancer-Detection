@@ -3,6 +3,8 @@
 <p>This project makes use of KNN to detect breast cancer using the Breast Cancer Wisconsin (Diagnostic) dataset.</p>
 <p>Dataset: https://github.com/dataspelunking/MLwR/blob/master/Machine%20Learning%20with%20R%20(2nd%20Ed.)/Chapter%2003/wisc_bc_data.csv</p>
 
+<p><strong>For more details, please take a look at knn.ipynb</strong></p>
+
 <h1> Different Experiments </h1>
 <ol>
   <li>different values for k</li>
